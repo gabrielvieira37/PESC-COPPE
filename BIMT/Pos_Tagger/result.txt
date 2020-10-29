@@ -1,0 +1,123 @@
+Taxa de acerto para a classe: Total do sistema:
+Tag 'Total': 87.457%
+Total da classe Total do sistema: 87.457%
+
+Taxa de acerto para a classe: Pontuação:
+Tag '!': 100.000%
+Tag '"': 98.326%
+Tag ''': 22.857%
+Tag '(': 96.811%
+Tag ')': 94.556%
+Tag ',': 98.974%
+Tag '-': 98.214%
+Tag '.': 98.498%
+Tag '...': 95.828%
+Tag ':': 96.504%
+Tag ';': 94.454%
+Tag '?': 95.507%
+Total da classe Pontuação: 90.877%
+
+Taxa de acerto para a classe: Adjetivo:
+Tag 'ADJ': 81.907%
+Total da classe Adjetivo: 81.907%
+
+Taxa de acerto para a classe: Advérbio:
+Tag 'ADV': 87.999%
+Total da classe Advérbio: 87.999%
+
+Taxa de acerto para a classe: Contração:
+Tag 'ADV+PPOA': 10.000%
+Tag 'ADV+PPR': Não presente nos corpus de teste. 
+Tag 'PPOA+PPOA': 10.000%
+Tag 'PREP+ADJ': Não presente nos corpus de teste. 
+Tag 'PREP+ADV': 45.000%
+Tag 'PREP+ART': 97.422%
+Tag 'PREP+N': 71.667%
+Tag 'PREP+PD': 89.052%
+Tag 'PREP+PPOA': Não presente nos corpus de teste. 
+Tag 'PREP+PPOT': 18.333%
+Tag 'PREP+PPR': 83.536%
+Tag 'PREP+PREP': 35.000%
+Total da classe Contração: 38.334%
+
+Taxa de acerto para a classe: Artigo:
+Tag 'ART': 97.223%
+Total da classe Artigo: 97.223%
+
+Taxa de acerto para a classe: Outras Tags:
+Tag 'AUX': Não presente nos corpus de teste. 
+Tag 'CONJCOORD': 94.667%
+Tag 'CONJSUB': 80.040%
+Tag 'IL': Não presente nos corpus de teste. 
+Tag 'INT': Não presente nos corpus de teste. 
+Tag 'LADV': 40.474%
+Tag 'LCONJ': 21.048%
+Tag 'LDEN': 56.213%
+Tag 'LP': 10.951%
+Tag 'LPREP': 39.293%
+Tag 'LPREP+ART': Não presente nos corpus de teste. 
+Tag 'NC': 88.196%
+Tag 'NO': 20.839%
+Tag 'ORD': 87.001%
+Tag 'PAPASS': Não presente nos corpus de teste. 
+Tag 'PD': 94.846%
+Tag 'PIND': 69.170%
+Tag 'PINT': 34.714%
+Tag 'PPOA': 81.660%
+Tag 'PPOT': 63.929%
+Tag 'PPR': 94.521%
+Tag 'PPS': 96.051%
+Tag 'PR': 85.294%
+Tag 'PREAL': Não presente nos corpus de teste. 
+Tag 'PTRA': 58.770%
+Tag 'V': Não presente nos corpus de teste. 
+Tag 'VAUX': 68.433%
+Tag 'VAUX!PPOA': Não presente nos corpus de teste. 
+Tag 'VAUX+PPOA': 53.333%
+Tag 'VBI': 26.293%
+Tag 'VBI+PAPASS': Não presente nos corpus de teste. 
+Tag 'VBI+PPOA': 9.947%
+Tag 'VBI+PPR': Não presente nos corpus de teste. 
+Tag 'VINT': 39.500%
+Tag 'VINT+PAPASS': Não presente nos corpus de teste. 
+Tag 'VINT+PPOA': Não presente nos corpus de teste. 
+Tag 'VINT+PREAL': Não presente nos corpus de teste. 
+Tag 'VLIG': 86.461%
+Tag 'VLIG+PPOA': 36.667%
+Tag 'VTD': 74.965%
+Tag 'VTD!PPOA': Não presente nos corpus de teste. 
+Tag 'VTD+PAPASS': 6.111%
+Tag 'VTD+PPOA': 15.434%
+Tag 'VTD+PPR': Não presente nos corpus de teste. 
+Tag 'VTD+PREAL': Não presente nos corpus de teste. 
+Tag 'VTI': 42.447%
+Tag 'VTI+PPOA': 3.095%
+Tag 'VTI+PREAL': Não presente nos corpus de teste. 
+Tag '[': 71.389%
+Tag ']': 71.389%
+Total da classe Outras Tags: 36.463%
+
+Taxa de acerto para a classe: Interjeição:
+Tag 'I': 57.111%
+Total da classe Interjeição: 57.111%
+
+Taxa de acerto para a classe: Substantivo comum:
+Tag 'N': 95.787%
+Total da classe Substantivo comum: 95.787%
+
+Taxa de acerto para a classe: Substantivo próprio:
+Tag 'NP': 82.381%
+Total da classe Substantivo próprio: 82.381%
+
+Taxa de acerto para a classe: Palavra Denotativa:
+Tag 'PDEN': 20.000%
+Total da classe Palavra Denotativa: 20.000%
+
+Taxa de acerto para a classe: Preposição:
+Tag 'PREP': 94.278%
+Total da classe Preposição: 94.278%
+
+Taxa de acerto para a classe: Residuais:
+Tag 'RES': 58.657%
+Total da classe Residuais: 58.657%
+
